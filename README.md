@@ -1,7 +1,7 @@
 # British Airways Data Science Analysis
 
 ## Overview
-This repository contains my work for the British Airways Data Science Internship job simulation. During this simulation, I had the opportunity to apply my data science skills to real-world problems in the aviation industry. The tasks I completed as part of this simulation are as follows:
+This repository contains my work for the British Airways Analysis using Data Science techniques. While creating this project I had the opportunity to apply my data science skills to real-world problems in the aviation industry. The tasks I completed are as follows:
 
 # Task 1: Customer Feedback Analysis
 What I Learned: This task provided insight into how data scientists at British Airways apply analytical skills to make a tangible impact by providing recommendations, tools, and models that drive key business decisions.
