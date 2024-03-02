@@ -1,4 +1,4 @@
-# British Airways Data Science Intern Job Simulation
+# British Airways Data Science Analysis
 
 ## Overview
 This repository contains my work for the British Airways Data Science Internship job simulation. During this simulation, I had the opportunity to apply my data science skills to real-world problems in the aviation industry. The tasks I completed as part of this simulation are as follows:
